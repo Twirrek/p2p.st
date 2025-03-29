@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "p2p.st",
+    "description": "",
+    "home_page_url": "https://p2p.st",
+    "feed_url": "https://p2p.st/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Tarik"
+    },
+    "items": [
+    ]
+}
